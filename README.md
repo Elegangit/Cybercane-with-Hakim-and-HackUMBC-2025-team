@@ -247,3 +247,5 @@ This repository extends the prototype at [UMBC Hackathon](https://github.com/paw
 ---
 
 For questions or collaboration, open an issue or reach out via email — address: `safayat [dot] b [dot] hakim [at] gmail [dot] com`
+
+Aniqa Afzal (Portfolio Project 2 CyberCane link: https://aniqa-afzal-best-ux-hcc.my.canva.site/hcc-portfolio-aniqa-afzal-webpage/project-2-nsai-cybercane ) 
